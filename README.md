@@ -1,5 +1,7 @@
 # powermock_easymock_jacoco
 
+Jacoco fails to perform coverage with PowerMock and EasyMock
+
 ## Launch test coverage
 
 1. Go to root directory
